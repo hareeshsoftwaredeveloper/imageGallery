@@ -1,0 +1,18 @@
+.images{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+
+}
+
+.image{
+    margin-bottom: 20px;
+    
+}
+
+img {
+    border-radius: 8px;
+}
